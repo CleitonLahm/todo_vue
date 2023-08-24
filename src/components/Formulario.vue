@@ -24,3 +24,11 @@
         </div>
     </form>
 </template>
+
+<style scoped>
+@media (max-width: 767px) {
+    button{
+        margin: 12px 0;
+    }
+}
+</style>
